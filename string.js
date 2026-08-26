@@ -1,3 +1,4 @@
+
 let namaLengkap = "Fitri Abigail";
 
 namaLengkap = "Fitri Abigailll";
