@@ -19,9 +19,10 @@ let lastName = "Doe";
 let fullName = firstName + " " + lastName; 
 console.log(fullName); // John Doe
 
-//let name = "Alice";
-//console.log("Hello, " , name , "!"); // Hello, Alice!
+//let name = "bigel";
+//console.log("Hello, " , name , "!"); 
 
-let name = "Alice";
-let age = 25;
-console.log("Name:", name, "Age:", age);
+let name = "bigel";
+let age = 18;
+let gender ="female"
+console.log("Name:", name, "Age:", age, "Gender:", gender  );
